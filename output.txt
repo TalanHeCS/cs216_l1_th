@@ -1,0 +1,17 @@
+Values divisible by 5:
+5, 10, 100, 10, 290, 
+Mean: 83
+Sum: 415
+Median: 10
+
+Values divisible by 7:
+7, 
+Mean: 7
+Sum: 7
+Median: 7
+
+Misc values:
+1, 2, 3, 4, 6, 8, 9, 39, 34, 
+Mean: 11.7778
+Sum: 106
+Median: 6
